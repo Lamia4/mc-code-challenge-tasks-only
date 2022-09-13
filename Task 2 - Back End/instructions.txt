@@ -1,0 +1,18 @@
+Instructions
+
+Save the following products into a database: 
+
+- Marissa Henley Dress
+- All For You Striped Shirt Dress
+- Pretty Dayz Set
+- Pippa Short Sleeve Mini Dress
+- Ollie Extreme Wide Leg Jeans
+- Irreplaceable Flare Jeans
+- Dolman Lotus Jacket
+- The Lasso Jeans
+- Dolman Duvet Coat
+- All Star Stadium Jacket
+
+Create a search suggestion API endpoint, that provides search suggestions based on a search query.
+
+
